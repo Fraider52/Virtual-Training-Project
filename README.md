@@ -2,6 +2,6 @@
 
 ## Integrante: 
 
-frainer causil marimon. 
-fraicausil(cuenta alterna)
+- frainer causil marimon. 
+- fraicausil(cuenta alterna)
 
